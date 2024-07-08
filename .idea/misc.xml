@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="代码基础质量检查">
+    <option name="companyRuleSet" value="C:\Users\10349436\AppData\Roaming\JetBrains\IdeaIC2023.2\plugins\coding-metrics\lib\code_base_check_rules.json" />
+    <option name="ruleComboBoxOptionsPriorityMap">
+      <map>
+        <entry key="3" value="公司级规则" />
+      </map>
+    </option>
+    <option name="ruleName2PathMap">
+      <map>
+        <entry key="公司级规则" value="C:\Users\10349436\AppData\Roaming\JetBrains\IdeaIC2023.2\plugins\coding-metrics\lib\code_base_check_rules.json" />
+      </map>
+    </option>
+  </component>
+  <component name="编码规范">
+    <option name="companyRuleSet" value="C:\Users\10349436\AppData\Roaming\JetBrains\IdeaIC2023.2\plugins\coding-check\lib\公司级规则集.xml" />
+    <option name="ruleComboBoxOptionsPriorityMap">
+      <map>
+        <entry key="3" value="公司级规则集" />
+      </map>
+    </option>
+    <option name="ruleName2PathMap">
+      <map>
+        <entry key="公司级规则集" value="C:\Users\10349436\AppData\Roaming\JetBrains\IdeaIC2023.2\plugins\coding-check\lib\公司级规则集.xml" />
+      </map>
+    </option>
+  </component>
+</project>
